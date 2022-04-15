@@ -77,6 +77,14 @@ PM_START_TEXT = """
 *ʜᴇʏ \n ɪ'ᴍ ꜱᴇʀᴀꜰᴀʟʟ* [!] 
 (https://telegra.ph/file/fda8f6e84a49d7c282658.jpg) \n*ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ\ɴ ɪ ʜᴀᴠᴇ ᴀᴡᴇꜱᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇꜱ ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ ᴄʟɪᴄᴋ ᴏɴ ᴄᴏᴍᴍᴀɴᴅꜱ ʙᴜᴛᴛᴏɴ ᴏʀ ʜɪᴛ* /help"""
 
+MIKU_IMG = (
+      "https://telegra.ph/file/3f06de01df5bc3c3cf343.jpg",
+      "https://telegra.ph//file/05311caed13176f7d35e5.jpg",
+      "https://telegra.ph//file/88976abda0d0af9d4a517.jpg",
+      "https://telegra.ph//file/b388f473ddfb9cc727bb1.jpg",
+      "https://telegra.ph//file/d950844dad2e473950470.jpg",
+)
+
 
 buttons = [
     [
